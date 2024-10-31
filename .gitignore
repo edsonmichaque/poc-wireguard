@@ -1,0 +1,8 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+client.conf
+terraform.tfvars
+inventory.yml
+ansible/client.conf
